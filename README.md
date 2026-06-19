@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Punjabi</h1>
-<h3 align="center">Frontend-Focused Fullstack Developer · React & Next.js</h3>
+<h3 align="center">Fullstack Developer · React & Next.js</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
