@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer · React & Next.js</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/sauravpunjabi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sauravpunjabi">
@@ -11,7 +11,7 @@
   <a href="mailto:sauravpunjabi123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK">
+  <a href="https://saurav.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1f1f1f?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
