@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a final-year **MCA student at MIT-WPU, Pune**, working as a **Frontend-Focused Fullstack Developer**. I build polished, production-grade web applications — pairing clean React/Next.js frontends with solid backend architecture.
+I'm a final-year **MCA student at MIT-WPU, Pune**, interning as a **Fullstack Developer**. I build polished, production-grade web applications — pairing clean React/Next.js frontends with solid backend architecture.
 
 I care about:
 
@@ -28,7 +28,7 @@ I care about:
 - 🏗️ **Clean fullstack architecture** — typed APIs, normalized data, caching, background jobs
 - 🚀 **Shipping real things** — projects that run, deploy, and serve live data
 
-Currently open to **Software Engineer roles in Bengaluru**.
+Currently open to **Software Engineer roles in Pune, Bengaluru, Delhi, Chennai, Hyderabad or Remote **.
 
 ---
 
